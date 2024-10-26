@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.Api", "Homework.Api\Homework.Api.csproj", "{6B62CDFB-C533-4D83-9D15-08D3394C3382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework.Api.Tests", "Homework.Api.Tests\Homework.Api.Tests.csproj", "{EE8EBFA5-9BDF-46EC-94EE-174E4A5A93A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B62CDFB-C533-4D83-9D15-08D3394C3382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B62CDFB-C533-4D83-9D15-08D3394C3382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B62CDFB-C533-4D83-9D15-08D3394C3382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B62CDFB-C533-4D83-9D15-08D3394C3382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8EBFA5-9BDF-46EC-94EE-174E4A5A93A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8EBFA5-9BDF-46EC-94EE-174E4A5A93A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8EBFA5-9BDF-46EC-94EE-174E4A5A93A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8EBFA5-9BDF-46EC-94EE-174E4A5A93A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC6BA9C-61A9-4BCC-A8FC-59931EC0BFC2}
+	EndGlobalSection
+EndGlobal
